@@ -38,4 +38,4 @@ Used pivot tables to aggregate stock in/out, calculate sales, and track product-
 ### 3️⃣ Dashboard (Visualization)  
 Final dashboard with charts and KPIs for quick insights into inventory levels and sales trends.  
 
-![Dashboard] (https://raw.githubusercontent.com/databy-yasar/Inventory-Management-System---Excel/refs/heads/main/Screenshot_Dashboard.png)
+![Dashboard] (Screenshot_Dashboard.png)
