@@ -28,18 +28,16 @@ It simulates an **Inventory Management System** that tracks stock, sales, and re
 ### 1️⃣ Product Table (Data Source)  
 This is the base dataset with stock, sales, and product details.  
 
-![Product Table][([Screenshot_Product_Table.png]]([url](https://github.com/databy-yasar/Inventory-Management-System---Excel/blob/main/Screenshot%202025-08-25%20105137.png))
-
----
+![Product Table] (https://github.com/databy-yasar/Inventory-Management-System---Excel/blob/main/Screenshot%202025-08-25%20105048.png)
 
 ### 2️⃣ Pivot Table (Analysis)  
 Used pivot tables to aggregate stock in/out, calculate sales, and track product-level performance.  
 
-![Pivot Table][(Screenshot_Pivot_Table.png)]([url](https://github.com/databy-yasar/Inventory-Management-System---Excel/blob/main/Screenshot%202025-08-25%20112018.png)) 
+![Pivot Table] (https://github.com/databy-yasar/Inventory-Management-System---Excel/blob/main/Screenshot%202025-08-25%20112018.png) 
 
 ---
 
 ### 3️⃣ Dashboard (Visualization)  
 Final dashboard with charts and KPIs for quick insights into inventory levels and sales trends.  
 
-![Dashboard][(Screenshot_Dashboard.png)]([url](https://github.com/databy-yasar/Inventory-Management-System---Excel/blob/main/Screenshot%202025-08-25%20105048.png))  
+![Dashboard] (https://github.com/databy-yasar/Inventory-Management-System---Excel/blob/main/Screenshot%202025-08-25%20105048.png)  
